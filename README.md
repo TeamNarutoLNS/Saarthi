@@ -7,7 +7,7 @@ Welcome to the official repository for **Saarthi**, a digital health companion b
 
 - 🧕 [NGOHeal – Connect to Verified NGOs for Women’s Health Aid](https://ngo-heal.vercel.app/)
 - 💉 [VaxAlert – Real-Time Vaccine Alerts & Health Drive Updates](https://vaxalert2.vercel.app/)
-- [SymptoScan –  AI Symptom Checker](https://symptoscan-2mg1.onrender.com/)
+- 🧠 [SymptoScan –  AI Symptom Checker](https://symptoscan-2mg1.onrender.com/)
 - More features to be added..
   
 ---
