@@ -59,7 +59,7 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 
 | Area            | Technologies Used                      |
 |-----------------|------------------------------------------|
-| Frontend        | React.js, Tailwind CSS, HTML5, CSS3      |
+| Frontend        | React.js,TypeScript, Tailwind CSS, HTML5, CSS3  |
 | Design & UI     | Figma, Canva                             |
 | Deployment      | Vercel                                   |
 | Backend (Planned) | Node.js, Express.js, MongoDB Atlas     |
