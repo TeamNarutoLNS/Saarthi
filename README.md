@@ -93,11 +93,11 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 |----------------|-------------|-------------|
 | 🧕 NGOHeal      | ✅ Live      | Connect to verified NGOs |
 | 💉 VaxAlert     | ✅ Live  | Vaccine reminders & drives |
-| 👩‍⚕️ GynConnect | ✅ Live   | Find or consult gynecologists |
+| 👩‍⚕️ GynConnect | ⏳ Planned   | Find or consult gynecologists |
 | 🩸 SheCycle+    | ⏳ Planned   | Period & ovulation tracker |
 | 🔐 MediVault    | ⏳ Planned   | Secure locker for health records |
 | 💬 CareCircle   | ⏳ Planned   | Community chat & counseling |
-| 🧠 SymptoScan   | ⏳ Planned   | AI-based symptom checker |
+| 🧠 SymptoScan   |  ✅ Live   | AI-based symptom checker |
 | 🧾 HealthYojana | ⏳ Planned   | Health scheme auto-matcher |
 
 ---
