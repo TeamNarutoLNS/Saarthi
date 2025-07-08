@@ -17,7 +17,11 @@ export const VolunteerSection = ({ onVolunteerClick }: VolunteerSectionProps) =>
               {/* Left side - Community illustration */}
               <div className="relative bg-gradient-to-br from-earth-cream/30 to-earth-warm p-8 flex items-center justify-center">
                 <img 
+<<<<<<< HEAD
                   src="/images/acf5df28-a7ac-4435-9535-04c217319824.png"
+=======
+                  src="/lovable-uploads/acf5df28-a7ac-4435-9535-04c217319824.png"
+>>>>>>> 2ae0c89480f2a4a0a39a5da79fe9648e668564d7
                   alt="Diverse women holding supportive signs showing unity and care in the community"
                   className="w-full h-full object-contain rounded-lg warm-glow max-h-96"
                 />
