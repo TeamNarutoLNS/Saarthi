@@ -71,9 +71,9 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 
 | Name            |  College       | Contact                         |
 |-----------------|---------------|----------------------------------|
-| Suhani Gupta    | IIIT Kota    | suhanigupta2304@gmail.com       |
-| Lekhni Bakliwal | IIIT Kota    | bakliwallekhni1@gmail.com       |
-| Nandani Goyal   | IIIT Kota    | 2023kucp1086@iiitkota.ac.in     |
+| Nandani Goyal   | IIIT Kota     |   2023kucp1086@iiitkota.ac.in    |
+| Lekhni Bakliwal | IIIT Kota     | bakliwallekhni1@gmail.com       |
+| Suhani Gupta    | IIIT Kota     | suhanigupta2304@gmail.com     |
 
 ---
 
