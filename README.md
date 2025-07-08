@@ -1,15 +1,15 @@
 # 🌿 Saarthi – Guiding Her to Wellness
 
-Welcome to the official repository for **Saarthi**, a digital health companion built to empower women in underserved regions of India. This project is developed as part of **HackOrbit 2025** by **Team Naruto**.
----
+## Welcome to the official repository for **Saarthi**, a digital health companion built to empower women in underserved regions of India. This project is developed as part of **HackOrbit 2025** by **Team Naruto**.
 
 ## 🚀 Live Deployment
 
 - 🧕 [NGOHeal – Connect to Verified NGOs for Women’s Health Aid](https://ngo-heal.vercel.app/)
 - 💉 [VaxAlert – Real-Time Vaccine Alerts & Health Drive Updates](https://vaxalert2.vercel.app/)
-- 🧠 [SymptoScan –  AI Symptom Checker](https://symptoscan-2mg1.onrender.com/)
+- 🧠 [SymptoScan – AI Symptom Checker](https://symptoscan-2mg1.onrender.com/)
+- 🗣[CareCircle-Peer & Emotional Support Hub ](https://carecircle-women-unite.vercel.app/)
 - More features to be added..
-  
+
 ---
 
 ## 🎯 Problem Statement
@@ -34,6 +34,7 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 ### 🧕 NGOHeal
 
 > Instantly connect users with verified NGOs for:
+
 - Menstrual hygiene assistance
 - Maternity care support
 - Emergency aid and shelter
@@ -46,19 +47,31 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 ### 💉 VaxAlert
 
 > A real-time vaccine alert system:
+
 - HPV, Tetanus, Iron Shots, and more
 - Personalized notifications based on age, health needs
 - Advisory updates for local health drives
 
-🔗 ****Live Demo:** [https://vaxalert2.vercel.app/](https://vaxalert2.vercel.app/)
+🔗 \***\*Live Demo:** [https://vaxalert2.vercel.app/](https://vaxalert2.vercel.app/)
 
 ### 🧠 SymptoScan – AI Symptom Checker
+
 > Helps users understand common symptoms in **plain, regional-friendly language**:
+
 - PCOS, UTI, menopause, anemia, thyroid
 - Decision-tree + AI-powered symptom analysis
 - Shows urgency levels and suggestions
 
-🔗 ****Live Demo:** [https://symptoscan-2mg1.onrender.com/](https://symptoscan-2mg1.onrender.com/)
+🔗 \***\*Live Demo:** [https://symptoscan-2mg1.onrender.com/](https://symptoscan-2mg1.onrender.com/)
+
+### Carecircle -Peer & Emotional Support Hub
+
+-It provide you with
+-Join real-time conversations with women who understand your journey.
+-Anonymous mode available in all rooms.
+-connect to your gynaecologist anonymously.
+
+🔗 \***\*Live Demo:** [https://carecircle-women-unite.vercel.app/](https://carecircle-women-unite.vercel.app/)
 
 ---
 
@@ -67,38 +80,38 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 
 ## 🛠️ Tech Stack
 
-| Area            | Technologies Used                      |
-|-----------------|------------------------------------------|
-| Frontend        | Vite, React, TypeScript, Tailwind CSS, HTML5|
-| Design & UI     | Figma, Canva, shadcn-ui                             |
-| Deployment      | Vercel, onrender                                  |
-| Backend (Planned) | Node.js, Express.js, MongoDB Atlas     |
-| Integrations (Planned) | Google Maps API, Twilio, Firebase |
+| Area                   | Technologies Used                            |
+| ---------------------- | -------------------------------------------- |
+| Frontend               | Vite, React, TypeScript, Tailwind CSS, HTML5 |
+| Design & UI            | Figma, Canva, shadcn-ui                      |
+| Deployment             | Vercel, onrender                             |
+| Backend (Planned)      | Node.js, Express.js, MongoDB Atlas           |
+| Integrations (Planned) | Google Maps API, Twilio, Firebase            |
 
 ---
 
 ## 👥 Team Naruto – HackOrbit 2025
 
-| Name            |  College       | Contact                         |
-|-----------------|---------------|----------------------------------|
-| Nandani Goyal   | IIIT Kota     |   2023kucp1086@iiitkota.ac.in    |
-| Lekhni Bakliwal | IIIT Kota     | bakliwallekhni1@gmail.com       |
-| Suhani Gupta    | IIIT Kota     | suhanigupta2304@gmail.com     |
+| Name            | College   | Contact                     |
+| --------------- | --------- | --------------------------- |
+| Nandani Goyal   | IIIT Kota | 2023kucp1086@iiitkota.ac.in |
+| Lekhni Bakliwal | IIIT Kota | bakliwallekhni1@gmail.com   |
+| Suhani Gupta    | IIIT Kota | suhanigupta2304@gmail.com   |
 
 ---
 
 ## 📌 Saarthi – Feature Roadmap
 
-| Feature        | Status      | Description |
-|----------------|-------------|-------------|
-| 🧕 NGOHeal      | ✅ Live      | Connect to verified NGOs |
-| 💉 VaxAlert     | ✅ Live  | Vaccine reminders & drives |
-| 👩‍⚕️ GynConnect | ⏳ Planned   | Find or consult gynecologists |
-| 🩸 SheCycle+    | ⏳ Planned   | Period & ovulation tracker |
-| 🔐 MediVault    | ⏳ Planned   | Secure locker for health records |
-| 💬 CareCircle   | ⏳ Planned   | Community chat & counseling |
-| 🧠 SymptoScan   |  ✅ Live   | AI-based symptom checker |
-| 🧾 HealthYojana | ⏳ Planned   | Health scheme auto-matcher |
+| Feature         | Status     | Description                      |
+| --------------- | ---------- | -------------------------------- |
+| 🧕 NGOHeal      | ✅ Live    | Connect to verified NGOs         |
+| 💉 VaxAlert     | ✅ Live    | Vaccine reminders & drives       |
+| 👩‍⚕️ GynConnect   | ⏳ Planned | Find or consult gynecologists    |
+| 🩸 SheCycle+    | ⏳ Planned | Period & ovulation tracker       |
+| 🔐 MediVault    | ⏳ Planned | Secure locker for health records |
+| 💬 CareCircle   | ⏳ Planned | Community chat & counseling      |
+| 🧠 SymptoScan   | ✅ Live    | AI-based symptom checker         |
+| 🧾 HealthYojana | ⏳ Planned | Health scheme auto-matcher       |
 
 ---
 
@@ -109,3 +122,4 @@ git clone https://github.com/your-username/Saarthi.git
 cd Saarthi
 npm install
 npm start
+```
