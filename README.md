@@ -69,7 +69,7 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 ## 👥 Team Naruto – HackOrbit 2025
 
 | Name            |  College       | Contact                         |
-|-----------------|--------------|---------------|----------------------------------|
+|-----------------|---------------|----------------------------------|
 | Suhani Gupta    | IIIT Kota    | suhanigupta2304@gmail.com       |
 | Lekhni Bakliwal | IIIT Kota    | bakliwallekhni1@gmail.com       |
 | Nandani Goyal   | IIIT Kota    | 2023kucp1086@iiitkota.ac.in     |
