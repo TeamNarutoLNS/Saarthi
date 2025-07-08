@@ -58,7 +58,7 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 - Decision-tree + AI-powered symptom analysis
 - Shows urgency levels and suggestions
 
-🔗 ****Live Demo:** [https://vaxalert2.vercel.app/](https://symptoscan-2mg1.onrender.com/)
+🔗 ****Live Demo:** [https://symptoscan-2mg1.onrender.com/](https://symptoscan-2mg1.onrender.com/)
 
 ---
 
