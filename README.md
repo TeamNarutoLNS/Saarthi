@@ -7,7 +7,9 @@ Welcome to the official repository for **Saarthi**, a digital health companion b
 
 - 🧕 [NGOHeal – Connect to Verified NGOs for Women’s Health Aid](https://ngo-heal.vercel.app/)
 - 💉 [VaxAlert – Real-Time Vaccine Alerts & Health Drive Updates](https://vaxalert2.vercel.app/)
- - More features to be added..
+- [SymptoScan –  AI Symptom Checker](https://symptoscan-2mg1.onrender.com/)
+- More features to be added..
+  
 ---
 
 ## 🎯 Problem Statement
@@ -50,6 +52,12 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 
 🔗 ****Live Demo:** [https://vaxalert2.vercel.app/](https://vaxalert2.vercel.app/)
 
+### 🧠 SymptoScan – AI Symptom Checker
+> Helps users understand common symptoms in **plain, regional-friendly language**:
+- PCOS, UTI, menopause, anemia, thyroid
+- Decision-tree + AI-powered symptom analysis
+- Shows urgency levels and suggestions
+
 ---
 
 🛠️ **Status:** Frontend UI complete and deployed  
@@ -61,7 +69,7 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 |-----------------|------------------------------------------|
 | Frontend        | Vite, React, TypeScript, Tailwind CSS, HTML5|
 | Design & UI     | Figma, Canva, shadcn-ui                             |
-| Deployment      | Vercel                                   |
+| Deployment      | Vercel, onrender                                  |
 | Backend (Planned) | Node.js, Express.js, MongoDB Atlas     |
 | Integrations (Planned) | Google Maps API, Twilio, Firebase |
 
@@ -83,7 +91,7 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 |----------------|-------------|-------------|
 | 🧕 NGOHeal      | ✅ Live      | Connect to verified NGOs |
 | 💉 VaxAlert     | ✅ Live  | Vaccine reminders & drives |
-| 👩‍⚕️ GynConnect | ⏳ Planned   | Find or consult gynecologists |
+| 👩‍⚕️ GynConnect | ✅ Live   | Find or consult gynecologists |
 | 🩸 SheCycle+    | ⏳ Planned   | Period & ovulation tracker |
 | 🔐 MediVault    | ⏳ Planned   | Secure locker for health records |
 | 💬 CareCircle   | ⏳ Planned   | Community chat & counseling |
