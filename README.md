@@ -82,7 +82,7 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 | Feature        | Status      | Description |
 |----------------|-------------|-------------|
 | 🧕 NGOHeal      | ✅ Live      | Connect to verified NGOs |
-| 💉 VaxAlert     | 🚧 Coming Soon | Vaccine reminders & drives |
+| 💉 VaxAlert     | ✅ Live  | Vaccine reminders & drives |
 | 👩‍⚕️ GynConnect | ⏳ Planned   | Find or consult gynecologists |
 | 🩸 SheCycle+    | ⏳ Planned   | Period & ovulation tracker |
 | 🔐 MediVault    | ⏳ Planned   | Secure locker for health records |
