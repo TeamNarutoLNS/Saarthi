@@ -57,11 +57,8 @@ export const HeroSection = () => {
                 <div className=" bg-gradient-to-br from-earth-cream/30 to-earth-warm flex items-center justify-center relative">
                   {/* Supportive women illustration */}
                   <img 
-<<<<<<< HEAD
-                    src="/images/8677b0de-d5cc-49c9-b70c-e0016c2cc6fe.png"
-=======
+
                     src="/lovable-uploads/8677b0de-d5cc-49c9-b70c-e0016c2cc6fe.png"
->>>>>>> 2ae0c89480f2a4a0a39a5da79fe9648e668564d7
                     alt="Two women embracing each other showing care and emotional support"
                     className="w-full h-full object-contain rounded-lg warm-glow max-h-80"
                   />
