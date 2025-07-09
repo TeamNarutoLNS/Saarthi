@@ -19,7 +19,7 @@
 - 📜 [**HealthYojana** – Personalized Government Scheme Finder](https://health-yojana.vercel.app/)
 - 🛢 [**MediVault** – Store Your Prescriptions & Medical Records](https://medi-safe-journal-vault.vercel.app/)
 - 🩸 [**SheCare** – Track Your Periods, Symptoms & Flow](https://feminine-she-care-vpg6.vercel.app/)
-- 🩺 [**GynoConnect** – Find & Consult Verified Gynecologists](https://gyno-connect-oasis.vercel.app/)
+- 🩺 [**GynoConnect** – Find & Consult Verified Gynecologists]
 
 
 ---
