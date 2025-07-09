@@ -112,7 +112,12 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 
 ✨ Builds Cycle Pattern and gives reminders.
 
+🔗 \***\*Live Demo:** [(https://feminine-she-care-vpg6.vercel.app/)](https://feminine-she-care-vpg6.vercel.app/)
+---
 
+###  [**GynoConnect** – Find & Consult Verified Gynecologists]
+✨ Search your nearby gynocologist
+-was not able to deploy it
 ---
 
 🛠️ **Status:** Frontend UI complete and deployed  
