@@ -8,6 +8,7 @@
 - 💉 [VaxAlert – Real-Time Vaccine Alerts & Health Drive Updates](https://vaxalert2.vercel.app/)
 - 🧠 [SymptoScan – AI Symptom Checker](https://symptoscan-2mg1.onrender.com/)
 - 🗣[CareCircle-Peer & Emotional Support Hub ](https://carecircle-women-unite.vercel.app/)
+  -📜[HealthYojana-personalised valid scheme finder ](https://health-yojana.vercel.app/)
 - More features to be added..
 
 ---
@@ -72,6 +73,16 @@ A unified platform to **bridge the gap in women's healthcare** by offering perso
 -connect to your gynaecologist anonymously.
 
 🔗 \***\*Live Demo:** [https://carecircle-women-unite.vercel.app/](https://carecircle-women-unite.vercel.app/)
+
+### HealthYojana -personalised valid yojanas finder
+
+✨ Personalized scheme recommendations
+
+✨ Easy eligibility checking
+
+✨ Step-by-step application guidance
+
+🔗 \***\*Live Demo:** [https://health-yojana.vercel.app/](https://carecircle-women-unite.vercel.app/)
 
 ---
 
