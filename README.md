@@ -9,8 +9,8 @@
 - 🧠 [SymptoScan – AI Symptom Checker](https://symptoscan-2mg1.onrender.com/)
 - 🗣[CareCircle-Peer & Emotional Support Hub ](https://carecircle-women-unite.vercel.app/)
 - 📜[HealthYojana-personalised valid scheme finder ](https://health-yojana.vercel.app/)
-- 🛢[MediVault-Your reports store](https://medi-safe-journal-vault.vercel.app/))
-- 🛢[SheCare-Your personalized period tracker](https://feminine-she-care-vpg6.vercel.app/)))
+- 🛢[MediVault-Your reports store](https://medi-safe-journal-vault.vercel.app/)
+- 🛢[SheCare-Your personalized period tracker](https://feminine-she-care-vpg6.vercel.app/)
 
 - More features to be added..
 
