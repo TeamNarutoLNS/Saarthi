@@ -7,12 +7,11 @@
 - 🧕 [NGOHeal – Connect to Verified NGOs for Women’s Health Aid](https://ngo-heal.vercel.app/)
 - 💉 [VaxAlert – Real-Time Vaccine Alerts & Health Drive Updates](https://vaxalert2.vercel.app/)
 - 🧠 [SymptoScan – AI Symptom Checker](https://symptoscan-2mg1.onrender.com/)
-- 🗣[CareCircle-Peer & Emotional Support Hub ](https://carecircle-women-unite.vercel.app/)
-- 📜[HealthYojana-personalised valid scheme finder ](https://health-yojana.vercel.app/)
-- 🛢[MediVault-Your reports store](https://medi-safe-journal-vault.vercel.app/)
-- 🛢[SheCare-Your personalized period tracker](https://feminine-she-care-vpg6.vercel.app/)
-
-- More features to be added..
+- 🗣 [CareCircle – Peer & Emotional Support Hub](https://carecircle-women-unite.vercel.app/)
+- 📜 [HealthYojana – Personalised Valid Scheme Finder](https://health-yojana.vercel.app/)
+- 🛢 [MediVault – Your Reports Store](https://medi-safe-journal-vault.vercel.app/)
+- 🩸 [SheCare – Your Personalized Period Tracker](https://feminine-she-care-vpg6.vercel.app/)
+- 🩺 [GynoConnect – Consult Verified Gynecologists Near You](https://gyno-connect-oasis.vercel.app/)
 
 ---
 
